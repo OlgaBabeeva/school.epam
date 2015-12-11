@@ -1,8 +1,5 @@
 package javase04.t03;
 
-//Дан файл, содержащий буквы текст на кириллице. Кодировка файла utf-8. Прочитайте
-//информацию из файла и перепишите ее в файл в кодировкой utf-16.
-
 import java.io.*;
 
 import static java.nio.charset.StandardCharsets.UTF_16;
